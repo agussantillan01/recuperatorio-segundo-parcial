@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1638794981 source:c:\users\1\documents\agus\agus\utn\2021\laboratorio\planillas\recuperatorio -santillan agustin\recuperatorioparcial2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"funciones.h"
+	"resoluciones.h"
+
+1638794981 c:\users\1\documents\agus\agus\utn\2021\laboratorio\planillas\recuperatorio -santillan agustin\recuperatorioparcial2\funciones.h
+
+1638795352 c:\users\1\documents\agus\agus\utn\2021\laboratorio\planillas\recuperatorio -santillan agustin\recuperatorioparcial2\resoluciones.h
+
